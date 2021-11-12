@@ -2,7 +2,7 @@ body {
     background-color: #f5f5dd;
 }
 
-.square1 .square2 .square3 .square4 {
+div {
     height: 100px;
     width: 100px;
     background-color: black;
@@ -13,13 +13,16 @@ body {
 }
 
 .square2 {
-    opacity: 0,7;
+    background-color: black;
+    opacity: 0.7;
 }
 
-.square3 {
-    opacity: 0,5;
+div.square3 {
+    background-color: black;
+    opacity: 0.5;
 }
 
-.square4 {
-    opacity: 0,25;
+div.square4 {
+    background-color: black;
+    opacity: 0.25;
 }
