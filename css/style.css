@@ -2,42 +2,24 @@ body {
     background-color: #f5f5dd;
 }
 
-.square1 {
+.square1 .square2 .square3 .square4 {
     height: 100px;
     width: 100px;
     background-color: black;
     margin-top: 5%;
     margin-bottom: 2%;
-    margin-left: 50%;
-    margin-right: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .square2 {
-    height: 100px;
-    width: 100px;
-    background-color: black;
     opacity: 70%;
-    margin-bottom: 2%;
-    margin-left: 50%;
-    margin-right: 50%;
 }
 
 .square3 {
-    height: 100px;
-    width: 100px;
-    background-color: black;
     opacity: 50%;
-    margin-bottom: 2%;
-    margin-left: 50%;
-    margin-right: 50%;
 }
 
 .square4 {
-    height: 100px;
-    width: 100px;
-    background-color: black;
     opacity: 25%;
-    margin-bottom: 2%;
-    margin-left: 50%;
-    margin-right: 50%;
 }
